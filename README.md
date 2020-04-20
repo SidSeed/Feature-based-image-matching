@@ -189,4 +189,4 @@ Project is:  _finished_
 ## Inspiration
 Project inspired by image recognition subject. 
 ## Contact
-Created by [@sidseed] - feel free to contact me!
+Created by [sidseed](mailto:sid.boulahmair@gmail.com) - feel free to contact me!
