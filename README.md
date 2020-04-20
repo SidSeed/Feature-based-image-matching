@@ -14,10 +14,10 @@ Using a distorted image, fiding all similar images from a dataset of images.
 ## General info
 Detection of similar images in a set of images, where one of them is the distorted (cropped, rotated or with enhanced saturation). This is achieved by dividing the images and extracting a set of features then performing a block to block matching.
 ## Screenshots
-![Example screenshot](./img/image-matching.png)
-![Example screenshot](./img/indexer.png)
+![indexer](./img/indexer.PNG)
+![Image-matching](./img/image-matching.PNG)
 ## Requirements
-* Python - version 2.7 or later
+* Python - 3.5 or later
 * Opencv
 * Numpy
 * PyQt5
