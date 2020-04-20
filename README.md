@@ -1,5 +1,5 @@
 # Feature-based-image-matching
-Using a distorted image, fiding all similar images from a dataset of images.
+Using a distorted image, finding all similar images from a dataset of images.
 ## Table of contents
 * [General info](#general-info)
 * [Screenshots](#screenshots)
